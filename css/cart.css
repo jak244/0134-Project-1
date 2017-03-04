@@ -1,0 +1,88 @@
+body {
+  background-color: blue;
+}
+
+p {
+
+  color: orange;
+  text-align: center;
+}
+
+h1 {
+
+  color: orange;
+  text-align: center;
+}
+
+nav {
+
+  border-style: double;
+  border-left:  none;
+  border-right: none;
+  border-color: red;
+  text-align: center;
+}
+
+ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+
+  display: inline-block;
+
+}
+
+li a {
+
+  padding: 0px 50px 0px 50px;
+  text-decoration: none;
+  color: yellow;
+}
+
+h2 {
+  color: orange;
+  text-align: center;
+}
+
+blockquote {
+  text-align: center;
+  color: orange;
+}
+
+.button {
+  text-align: center;
+}
+
+#active {
+
+
+  background-color: red;
+  height: 2px;
+}
+
+.foot {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.super {
+
+  text-align: center;
+}
+
+img {
+
+  width: 500px;
+  height: 400px;
+}
+
+#title {
+  text-decoration: none;
+  color: orange;
+}
